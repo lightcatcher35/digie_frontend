@@ -118,7 +118,9 @@ span.content {
   height: 18px;
   padding: 6px;
 }
-
+.item-info-desc-name {
+  margin-bottom: 10px;
+}
 /* MODAL*/
 /*///////*/
 .modal {
